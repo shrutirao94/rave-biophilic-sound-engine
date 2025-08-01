@@ -5,7 +5,7 @@ import librosa
 import soundfile as sf
 
 SAMPLE_RATE = 48000
-SEGMENT_DURATION = 5
+SEGMENT_DURATION = 60
 MIN_SEGMENT_LENGTH = 1.0
 OUTPUT_DIR = Path("data/preprocess/nature")
 
