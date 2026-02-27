@@ -1,0 +1,167 @@
+.
+├── archive
+│   ├── archive
+│   │   ├── nature_rave_be81ca5504
+│   │   └── nature_rave_e18d54798e
+│   └── nature_rave_be81ca5504
+│       ├── config.gin
+│       └── version_0
+├── data
+│   ├── archive
+│   │   ├── preprocess
+│   │   └── raw
+│   ├── preprocessed_rave
+│   │   ├── data_classes
+│   │   ├── data.mdb
+│   │   ├── lock.mdb
+│   │   └── metadata.yaml
+│   ├── raw
+│   │   ├── processed_balanced_filtered
+│   │   ├── processed_classes_filtered
+│   │   └── processed_curated_filtered
+│   └── test_audio
+│       ├── office
+│       └── transformed
+├── environment.yaml
+├── models
+│   ├── archive
+│   │   └── full_bal_nature
+│   └── nature_rave
+│       └── nature_rave_50241f6005
+├── new_sounds
+│   ├── full_bal
+│   │   ├── birds.wav
+│   │   ├── reconstructed_noisy.wav
+│   │   ├── reconstructed_soft.wav
+│   │   └── styled_noisy.wav
+│   ├── noisy_reconstructed.wav
+│   ├── soft_reconstructed.wav
+│   ├── soft_style_transfer.wav
+│   └── style_transfer.wav
+├── notebooks
+├── project_structure.txt
+├── RAVE
+│   ├── acids_rave.egg-info
+│   │   ├── dependency_links.txt
+│   │   ├── entry_points.txt
+│   │   ├── PKG-INFO
+│   │   ├── requires.txt
+│   │   ├── SOURCES.txt
+│   │   └── top_level.txt
+│   ├── docs
+│   │   ├── darbouka_prior.mp3
+│   │   ├── log_distance.png
+│   │   ├── log_fidelity.png
+│   │   ├── log_gan.png
+│   │   ├── maxmsp_screenshot.png
+│   │   ├── rave_attribute.png
+│   │   ├── rave_buffer.png
+│   │   ├── rave_encode_decode.png
+│   │   ├── rave_high_level.png
+│   │   ├── rave_method_forward.png
+│   │   ├── rave.png
+│   │   ├── tensorboard_guide.md
+│   │   └── training_setup.md
+│   ├── LICENSE
+│   ├── MANIFEST.in
+│   ├── rave
+│   │   ├── balancer.py
+│   │   ├── blocks.py
+│   │   ├── configs
+│   │   ├── core.py
+│   │   ├── dataset.py
+│   │   ├── descript_discriminator.py
+│   │   ├── discriminator.py
+│   │   ├── __init__.py
+│   │   ├── model.py
+│   │   ├── pqmf.py
+│   │   ├── prior
+│   │   ├── __pycache__
+│   │   ├── quantization.py
+│   │   ├── resampler.py
+│   │   ├── transforms.py
+│   │   └── version.py
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── scripts
+│   │   ├── export_onnx.py
+│   │   ├── export.py
+│   │   ├── generate.py
+│   │   ├── __init__.py
+│   │   ├── main_cli.py
+│   │   ├── preprocess.py
+│   │   ├── __pycache__
+│   │   ├── remote_dataset.py
+│   │   ├── train_prior.py
+│   │   └── train.py
+│   ├── setup.py
+│   └── tests
+│       ├── __init__.py
+│       ├── test_configs.py
+│       ├── test_resampler.py
+│       └── test_residual.py
+├── README.md
+├── requirements.txt
+├── scripts
+│   ├── balance.py
+│   ├── check_model.py
+│   ├── check_sample_rates.py
+│   ├── check_segment_lengths.py
+│   ├── count.py
+│   ├── preprocess.py
+│   ├── reconstruct.py
+│   ├── style_transfer.py
+│   ├── transform_audio.py
+│   └── worker_preprocess.py
+├── trained_models
+│   ├── full_bal
+│   │   └── full_bal_streaming.ts
+│   ├── full_bal_no_adv
+│   │   └── full_bal_no_adv_streaming.ts
+│   ├── full_bal_short
+│   │   ├── full_bal_streaming.ts
+│   │   └── full_bal.ts
+│   └── test_nature_rave.ts
+└── venv
+    ├── bin
+    │   ├── activate
+    │   ├── activate.csh
+    │   ├── activate.fish
+    │   ├── Activate.ps1
+    │   ├── convert-caffe2-to-onnx
+    │   ├── convert-onnx-to-caffe2
+    │   ├── duration
+    │   ├── f2py
+    │   ├── flask
+    │   ├── fonttools
+    │   ├── isympy
+    │   ├── markdown_py
+    │   ├── normalizer
+    │   ├── numba
+    │   ├── pip
+    │   ├── pip3
+    │   ├── pip3.10
+    │   ├── pyftmerge
+    │   ├── pyftsubset
+    │   ├── pygmentize
+    │   ├── py.test
+    │   ├── pytest
+    │   ├── python -> python3
+    │   ├── python3 -> /usr/bin/python3
+    │   ├── python3.10 -> python3
+    │   ├── rave
+    │   ├── resample
+    │   ├── serve_dataset
+    │   ├── tensorboard
+    │   ├── torchrun
+    │   ├── tqdm
+    │   └── ttx
+    ├── include
+    ├── lib
+    │   └── python3.10
+    ├── lib64 -> lib
+    ├── pyvenv.cfg
+    └── share
+        └── man
+
+50 directories, 114 files
