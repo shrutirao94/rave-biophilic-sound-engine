@@ -1,0 +1,173 @@
+model_name,model_path,input_file,output_file,attempt,return_code,output_exists,stdout_tail,stderr_tail,status
+birds_dawnchorus_b2048_r48000_z8,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_dawnchorus_b2048_r48000_z8.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_ambient_talking.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_dawnchorus_b2048_r48000_z8/office_ambient_talking__birds_dawnchorus_b2048_r48000_z8.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_ambient_talking.wav
+sr=48000 samples=2880000 peak=0.5898 rms=0.0244
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_dawnchorus_b2048_r48000_z8/office_ambient_talking__birds_dawnchorus_b2048_r48000_z8.wav
+sr=48000 samples=2880000 peak=0.2279 rms=0.0142
+",,OK
+birds_dawnchorus_b2048_r48000_z8,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_dawnchorus_b2048_r48000_z8.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_ambient_talking_2.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_dawnchorus_b2048_r48000_z8/office_ambient_talking_2__birds_dawnchorus_b2048_r48000_z8.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_ambient_talking_2.wav
+sr=48000 samples=2880000 peak=1.0000 rms=0.0520
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_dawnchorus_b2048_r48000_z8/office_ambient_talking_2__birds_dawnchorus_b2048_r48000_z8.wav
+sr=48000 samples=2880000 peak=0.8232 rms=0.0144
+",,OK
+birds_dawnchorus_b2048_r48000_z8,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_dawnchorus_b2048_r48000_z8.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_keyboard.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_dawnchorus_b2048_r48000_z8/office_keyboard__birds_dawnchorus_b2048_r48000_z8.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_keyboard.wav
+sr=48000 samples=2880000 peak=1.0000 rms=0.0383
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_dawnchorus_b2048_r48000_z8/office_keyboard__birds_dawnchorus_b2048_r48000_z8.wav
+sr=48000 samples=2880000 peak=1.1741 rms=0.0159
+",,OK
+birds_dawnchorus_b2048_r48000_z8,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_dawnchorus_b2048_r48000_z8.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_quiet.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_dawnchorus_b2048_r48000_z8/office_quiet__birds_dawnchorus_b2048_r48000_z8.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_quiet.wav
+sr=48000 samples=2880000 peak=0.0539 rms=0.0089
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_dawnchorus_b2048_r48000_z8/office_quiet__birds_dawnchorus_b2048_r48000_z8.wav
+sr=48000 samples=2880000 peak=0.0510 rms=0.0082
+",,OK
+birds_dawnchorus_b2048_r48000_z8,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_dawnchorus_b2048_r48000_z8.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_quiet_clicking.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_dawnchorus_b2048_r48000_z8/office_quiet_clicking__birds_dawnchorus_b2048_r48000_z8.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_quiet_clicking.wav
+sr=48000 samples=2880000 peak=0.1916 rms=0.0161
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_dawnchorus_b2048_r48000_z8/office_quiet_clicking__birds_dawnchorus_b2048_r48000_z8.wav
+sr=48000 samples=2880000 peak=0.1823 rms=0.0137
+",,OK
+birds_dawnchorus_b2048_r48000_z8,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_dawnchorus_b2048_r48000_z8.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_talking.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_dawnchorus_b2048_r48000_z8/office_talking__birds_dawnchorus_b2048_r48000_z8.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_talking.wav
+sr=48000 samples=2880000 peak=0.9790 rms=0.0476
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_dawnchorus_b2048_r48000_z8/office_talking__birds_dawnchorus_b2048_r48000_z8.wav
+sr=48000 samples=2880000 peak=0.5224 rms=0.0191
+",,OK
+birds_motherbird_b2048_r48000_z16,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_motherbird_b2048_r48000_z16.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_ambient_talking.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_motherbird_b2048_r48000_z16/office_ambient_talking__birds_motherbird_b2048_r48000_z16.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_ambient_talking.wav
+sr=48000 samples=2880000 peak=0.5898 rms=0.0244
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_motherbird_b2048_r48000_z16/office_ambient_talking__birds_motherbird_b2048_r48000_z16.wav
+sr=48000 samples=2881536 peak=0.4912 rms=0.0251
+",,OK
+birds_motherbird_b2048_r48000_z16,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_motherbird_b2048_r48000_z16.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_ambient_talking_2.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_motherbird_b2048_r48000_z16/office_ambient_talking_2__birds_motherbird_b2048_r48000_z16.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_ambient_talking_2.wav
+sr=48000 samples=2880000 peak=1.0000 rms=0.0520
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_motherbird_b2048_r48000_z16/office_ambient_talking_2__birds_motherbird_b2048_r48000_z16.wav
+sr=48000 samples=2881536 peak=1.0795 rms=0.0478
+",,OK
+birds_motherbird_b2048_r48000_z16,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_motherbird_b2048_r48000_z16.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_keyboard.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_motherbird_b2048_r48000_z16/office_keyboard__birds_motherbird_b2048_r48000_z16.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_keyboard.wav
+sr=48000 samples=2880000 peak=1.0000 rms=0.0383
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_motherbird_b2048_r48000_z16/office_keyboard__birds_motherbird_b2048_r48000_z16.wav
+sr=48000 samples=2881536 peak=0.8889 rms=0.0343
+",,OK
+birds_motherbird_b2048_r48000_z16,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_motherbird_b2048_r48000_z16.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_quiet.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_motherbird_b2048_r48000_z16/office_quiet__birds_motherbird_b2048_r48000_z16.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_quiet.wav
+sr=48000 samples=2880000 peak=0.0539 rms=0.0089
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_motherbird_b2048_r48000_z16/office_quiet__birds_motherbird_b2048_r48000_z16.wav
+sr=48000 samples=2881536 peak=0.0672 rms=0.0097
+",,OK
+birds_motherbird_b2048_r48000_z16,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_motherbird_b2048_r48000_z16.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_quiet_clicking.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_motherbird_b2048_r48000_z16/office_quiet_clicking__birds_motherbird_b2048_r48000_z16.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_quiet_clicking.wav
+sr=48000 samples=2880000 peak=0.1916 rms=0.0161
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_motherbird_b2048_r48000_z16/office_quiet_clicking__birds_motherbird_b2048_r48000_z16.wav
+sr=48000 samples=2881536 peak=0.1863 rms=0.0172
+",,OK
+birds_motherbird_b2048_r48000_z16,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_motherbird_b2048_r48000_z16.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_talking.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_motherbird_b2048_r48000_z16/office_talking__birds_motherbird_b2048_r48000_z16.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_talking.wav
+sr=48000 samples=2880000 peak=0.9790 rms=0.0476
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_motherbird_b2048_r48000_z16/office_talking__birds_motherbird_b2048_r48000_z16.wav
+sr=48000 samples=2881536 peak=1.0254 rms=0.0392
+",,OK
+birds_pluma_b2048_r48000_z12,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_pluma_b2048_r48000_z12.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_ambient_talking.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_pluma_b2048_r48000_z12/office_ambient_talking__birds_pluma_b2048_r48000_z12.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_ambient_talking.wav
+sr=48000 samples=2880000 peak=0.5898 rms=0.0244
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_pluma_b2048_r48000_z12/office_ambient_talking__birds_pluma_b2048_r48000_z12.wav
+sr=48000 samples=2879488 peak=0.8497 rms=0.0357
+",,OK
+birds_pluma_b2048_r48000_z12,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_pluma_b2048_r48000_z12.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_ambient_talking_2.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_pluma_b2048_r48000_z12/office_ambient_talking_2__birds_pluma_b2048_r48000_z12.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_ambient_talking_2.wav
+sr=48000 samples=2880000 peak=1.0000 rms=0.0520
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_pluma_b2048_r48000_z12/office_ambient_talking_2__birds_pluma_b2048_r48000_z12.wav
+sr=48000 samples=2879488 peak=1.0000 rms=0.0196
+",,OK
+birds_pluma_b2048_r48000_z12,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_pluma_b2048_r48000_z12.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_keyboard.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_pluma_b2048_r48000_z12/office_keyboard__birds_pluma_b2048_r48000_z12.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_keyboard.wav
+sr=48000 samples=2880000 peak=1.0000 rms=0.0383
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_pluma_b2048_r48000_z12/office_keyboard__birds_pluma_b2048_r48000_z12.wav
+sr=48000 samples=2879488 peak=1.2728 rms=0.0466
+",,OK
+birds_pluma_b2048_r48000_z12,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_pluma_b2048_r48000_z12.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_quiet.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_pluma_b2048_r48000_z12/office_quiet__birds_pluma_b2048_r48000_z12.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_quiet.wav
+sr=48000 samples=2880000 peak=0.0539 rms=0.0089
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_pluma_b2048_r48000_z12/office_quiet__birds_pluma_b2048_r48000_z12.wav
+sr=48000 samples=2879488 peak=0.0565 rms=0.0070
+",,OK
+birds_pluma_b2048_r48000_z12,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_pluma_b2048_r48000_z12.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_quiet_clicking.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_pluma_b2048_r48000_z12/office_quiet_clicking__birds_pluma_b2048_r48000_z12.wav,1,0,1,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input/office_quiet_clicking.wav
+sr=48000 samples=2880000 peak=0.1916 rms=0.0161
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_pluma_b2048_r48000_z12/office_quiet_clicking__birds_pluma_b2048_r48000_z12.wav
+sr=48000 samples=2879488 peak=0.2667 rms=0.0144
+",,OK
+birds_pluma_b2048_r48000_z12,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_pluma_b2048_r48000_z12.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_talking.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_pluma_b2048_r48000_z12/office_talking__birds_pluma_b2048_r48000_z12.wav,1,-11,0,,,RETRY
+birds_pluma_b2048_r48000_z12,/home/shruti/rave-biophilic-sound-engine/experiments/E02_pretrained_rave_nature_prior/models/iil_ts/birds_pluma_b2048_r48000_z12.ts,/home/shruti/rave-biophilic-sound-engine/data/test/input/office_talking.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed/birds_pluma_b2048_r48000_z12/office_talking__birds_pluma_b2048_r48000_z12.wav,2,-11,0,,,FAILED
