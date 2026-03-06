@@ -26,5 +26,5 @@ for category in os.listdir(INPUT_DIR):
     for f in selected:
         shutil.copy(os.path.join(in_path, f), os.path.join(out_path, f))
 
-    print(f"✅ {category}: {len(selected)} files copied")
+    print(f" {category}: {len(selected)} files copied")
 

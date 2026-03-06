@@ -1,0 +1,115 @@
+=== E02 PREFLIGHT ===
+python: 3.10.12 (main, Jan 26 2026, 14:55:28) [GCC 11.4.0]
+executable: /home/shruti/rave-biophilic-sound-engine/venv/bin/python
+cwd: /home/shruti/rave-biophilic-sound-engine
+platform: Linux-6.8.0-100-generic-x86_64-with-glibc2.35
+
+[torch]
+torch: 2.1.2+cu121
+cuda_available: True
+cuda_version: 12.1
+device_count: 1
+gpu0: NVIDIA GeForce RTX 4090
+
+[soundfile] 0.13.1
+[torchaudio] 2.1.2+cu121
+
+[rave]
+rave_file: /home/shruti/rave-biophilic-sound-engine/RAVE/rave/__init__.py
+rave_dir: /home/shruti/rave-biophilic-sound-engine/RAVE/rave
+
+$ which rave
+/home/shruti/rave-biophilic-sound-engine/venv/bin/rave
+
+$ rave --help
+usage: rave [ preprocess | train | train_prior | export | export_onnx | remote_dataset | generate ]
+
+positional arguments:
+  command     Command to launch with rave.
+
+$ rave export --help
+USAGE: scripts.export [flags]
+flags:
+
+scripts.export:
+  --channels: number of out channels for export
+    (an integer)
+  --[no]ema_weights: Use ema weights if avaiable
+    (default: 'false')
+  --fidelity: Fidelity to use during inference (Variational mode only)
+    (default: '0.95')
+    (a number in the range [0.1, 0.999])
+  --name: custom name for the scripted model (default: run name)
+  --output: output location of scripted model
+  --prior: path to prior (optional)
+  --run: Path to the run to export
+  --sr: Optional resampling sample rate
+    (an integer)
+  --[no]streaming: Enable the model streaming mode
+    (default: 'false')
+
+Try --helpfull to get a list of all flags.
+[stderr]
+INFO:root:library loading
+INFO:root:DEBUG
+
+$ rave generate --help
+USAGE: scripts.generate [flags]
+flags:
+
+scripts.generate:
+  --chunk_size: chunk size for encoding/decoding (default: full file)
+    (an integer)
+  --gpu: GPU to use
+    (default: '-1')
+    (an integer)
+  --input: model inputs (file or folder);
+    repeat this option to specify a list of values
+  --model: model path
+  --name: name of the model
+  --out_path: output path
+    (default: 'generations')
+  --[no]stream: simulates streaming mode
+    (default: 'false')
+
+Try --helpfull to get a list of all flags.
+
+$ ffmpeg -version
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)
+configuration: --prefix=/usr --extra-version=0ubuntu0.22.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librabbitmq --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-pocketsphinx --enable-librsvg --enable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+libavutil      56. 70.100 / 56. 70.100
+libavcodec     58.134.100 / 58.134.100
+libavformat    58. 76.100 / 58. 76.100
+libavdevice    58. 13.100 / 58. 13.100
+libavfilter     7.110.100 /  7.110.100
+libswscale      5.  9.100 /  5.  9.100
+libswresample   3.  9.100 /  3.  9.100
+libpostproc    55.  9.100 / 55.  9.100
+
+$ sox --version
+sox:      SoX v14.4.2
+
+$ nvidia-smi
+Fri Feb 27 13:27:34 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 550.163.01             Driver Version: 550.163.01     CUDA Version: 12.4     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA GeForce RTX 4090        Off |   00000000:01:00.0 Off |                  Off |
+| 50%   70C    P2            299W /  450W |    8229MiB /  24564MiB |     93%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|    0   N/A  N/A      1981      G   /usr/lib/xorg/Xorg                             56MiB |
+|    0   N/A  N/A      2094      G   /usr/bin/gnome-shell                           13MiB |
+|    0   N/A  N/A   3967175      C   ...hilic-sound-engine/venv/bin/python3       8142MiB |
++-----------------------------------------------------------------------------------------+
