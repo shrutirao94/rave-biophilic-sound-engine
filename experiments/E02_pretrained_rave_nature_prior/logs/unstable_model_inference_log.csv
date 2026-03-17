@@ -1,0 +1,343 @@
+model_id,input_file,output_file,return_code,status,stdout_tail,stderr_tail
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_2_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_ambient_talking_2_seg004__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_2_seg004.wav
+sr=48000 samples=480000 peak=0.0000 rms=0.0000
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_ambient_talking_2_seg004__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0006 rms=0.0000
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_2_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_ambient_talking_2_seg005__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_2_seg005.wav
+sr=48000 samples=480000 peak=0.0000 rms=0.0000
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_ambient_talking_2_seg005__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0017 rms=0.0000
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_seg000.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_ambient_talking_seg000__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_seg000.wav
+sr=48000 samples=480000 peak=0.0510 rms=0.0104
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_ambient_talking_seg000__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.1117 rms=0.0082
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_ambient_talking_seg001__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_ambient_talking_seg002__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_seg002.wav
+sr=48000 samples=480000 peak=0.0464 rms=0.0110
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_ambient_talking_seg002__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0641 rms=0.0087
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_ambient_talking_seg003__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_ambient_talking_seg004__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_ambient_talking_seg005__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg000.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_keyboard_seg000__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg000.wav
+sr=48000 samples=480000 peak=1.0000 rms=0.0671
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_keyboard_seg000__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.9939 rms=0.0574
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_keyboard_seg001__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg001.wav
+sr=48000 samples=480000 peak=1.0000 rms=0.0573
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_keyboard_seg001__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=1.1220 rms=0.0443
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_keyboard_seg002__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg002.wav
+sr=48000 samples=480000 peak=0.2315 rms=0.0173
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_keyboard_seg002__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.2344 rms=0.0155
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_keyboard_seg003__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg003.wav
+sr=48000 samples=480000 peak=0.1765 rms=0.0151
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_keyboard_seg003__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.1200 rms=0.0129
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_keyboard_seg004__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg004.wav
+sr=48000 samples=480000 peak=0.4184 rms=0.0203
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_keyboard_seg004__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.3318 rms=0.0166
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_keyboard_seg005__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg005.wav
+sr=48000 samples=480000 peak=0.0400 rms=0.0094
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_keyboard_seg005__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0377 rms=0.0075
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg000.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg000__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg001__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg002__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg003__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg004__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg004.wav
+sr=48000 samples=480000 peak=0.0840 rms=0.0149
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg004__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0737 rms=0.0115
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg005__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg000.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_seg000__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg000.wav
+sr=48000 samples=480000 peak=0.0303 rms=0.0073
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_seg000__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.1087 rms=0.0056
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_seg001__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_seg002__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_seg003__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_seg004__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg004.wav
+sr=48000 samples=480000 peak=0.0539 rms=0.0116
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_seg004__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0543 rms=0.0095
+",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_seg001__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg001.wav
+sr=48000 samples=480000 peak=0.0291 rms=0.0077
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_seg001__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0367 rms=0.0060
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_seg002__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg002.wav
+sr=48000 samples=480000 peak=0.0408 rms=0.0087
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_seg002__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0542 rms=0.0066
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_quiet_seg003__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg000.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_talking_seg000__marinemammals_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_talking_seg001__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg001.wav
+sr=48000 samples=480000 peak=0.5284 rms=0.0285
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_talking_seg001__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.2739 rms=0.0214
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_talking_seg002__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg002.wav
+sr=48000 samples=480000 peak=0.9303 rms=0.0584
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_talking_seg002__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.6152 rms=0.0502
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_talking_seg003__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg003.wav
+sr=48000 samples=480000 peak=0.9790 rms=0.0766
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_talking_seg003__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.7675 rms=0.0657
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_talking_seg004__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg004.wav
+sr=48000 samples=480000 peak=0.3437 rms=0.0397
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_talking_seg004__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.2333 rms=0.0303
+",
+marinemammals_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_talking_seg005__marinemammals_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg005.wav
+sr=48000 samples=480000 peak=0.2381 rms=0.0339
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/marinemammals_pondbrain_b2048_r48000_z20/office_talking_seg005__marinemammals_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.1813 rms=0.0249
+",
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg000.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg000__humpbacks_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg000.wav
+sr=48000 samples=480000 peak=0.0303 rms=0.0073
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg000__humpbacks_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0346 rms=0.0063
+",
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg001__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg002__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg003__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg004__humpbacks_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg004.wav
+sr=48000 samples=480000 peak=0.0539 rms=0.0116
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg004__humpbacks_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0467 rms=0.0105
+",
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg005__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg000.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg000__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg001__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg002__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg003__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg004__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg005__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg001__humpbacks_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg001.wav
+sr=48000 samples=480000 peak=0.0291 rms=0.0077
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg001__humpbacks_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0383 rms=0.0065
+",
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg002__humpbacks_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg002.wav
+sr=48000 samples=480000 peak=0.0408 rms=0.0087
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg002__humpbacks_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0452 rms=0.0071
+",
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg003__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg005__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg000.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg000__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg001__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg002__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg003__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg004__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg005__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_2_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_ambient_talking_2_seg001__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_2_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_ambient_talking_2_seg002__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_2_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_ambient_talking_2_seg003__humpbacks_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_2_seg003.wav
+sr=48000 samples=480000 peak=0.0000 rms=0.0000
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_ambient_talking_2_seg003__humpbacks_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0008 rms=0.0000
+",
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_2_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_ambient_talking_2_seg004__humpbacks_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_2_seg004.wav
+sr=48000 samples=480000 peak=0.0000 rms=0.0000
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_ambient_talking_2_seg004__humpbacks_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.0008 rms=0.0000
+",
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_2_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_ambient_talking_2_seg005__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_ambient_talking_seg000.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_ambient_talking_seg000__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_keyboard_seg001__humpbacks_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg001.wav
+sr=48000 samples=480000 peak=1.0000 rms=0.0573
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_keyboard_seg001__humpbacks_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=1.2225 rms=0.0472
+",
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_keyboard_seg002__humpbacks_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg002.wav
+sr=48000 samples=480000 peak=0.2315 rms=0.0173
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_keyboard_seg002__humpbacks_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.2944 rms=0.0152
+",
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_keyboard_seg003__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_keyboard_seg004__humpbacks_pondbrain_b2048_r48000_z20.wav,0,OK,"
+=== INPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg004.wav
+sr=48000 samples=480000 peak=0.4184 rms=0.0203
+[MODEL CALL] m(x)
+
+=== OUTPUT ===
+/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_keyboard_seg004__humpbacks_pondbrain_b2048_r48000_z20.wav
+sr=48000 samples=479232 peak=0.2688 rms=0.0166
+",
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_keyboard_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_keyboard_seg005__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg000.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg000__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg001__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg002__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg003__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg004__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_clicking_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_clicking_seg005__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg003__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_quiet_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_quiet_seg005__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg000.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg000__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg001.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg001__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg002.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg002__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg003.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg003__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg004.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg004__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
+humpbacks_pondbrain_b2048_r48000_z20,/home/shruti/rave-biophilic-sound-engine/data/test/input_eval/office_talking_seg005.wav,/home/shruti/rave-biophilic-sound-engine/data/test/transformed_eval/humpbacks_pondbrain_b2048_r48000_z20/office_talking_seg005__humpbacks_pondbrain_b2048_r48000_z20.wav,-11,FAILED,,
