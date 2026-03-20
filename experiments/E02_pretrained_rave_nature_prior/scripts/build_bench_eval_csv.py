@@ -9,7 +9,21 @@ DATA_ROOT = PROJECT_ROOT / "data" / "test"
 INPUT_DIR = DATA_ROOT / "input_eval"
 TRANSFORMED_DIR = DATA_ROOT / "transformed_eval"
 
-OUT_CSV = PROJECT_ROOT / "experiments" / "E02_pretrained_rave_nature_prior" / "bench_eval.csv"
+OUT_CSV = (
+    PROJECT_ROOT
+    / "experiments"
+    / "E02_pretrained_rave_nature_prior"
+    / "bench_eval_all.csv"
+)
+
+MODEL_TO_REFERENCE = {
+    "birds_dawnchorus_b2048_r48000_z8": "birds",
+    "birds_motherbird_b2048_r48000_z16": "birds",
+    "birds_pluma_b2048_r48000_z12": "birds",
+    "water_pondbrain_b2048_r48000_z16": "water",
+    "marinemammals_pondbrain_b2048_r48000_z20": "marinemammals",
+    "humpbacks_pondbrain_b2048_r48000_z20": "marinemammals",
+}
 
 
 def main() -> None:
@@ -20,6 +34,12 @@ def main() -> None:
             continue
 
         model_id = model_dir.name
+
+        if model_id not in MODEL_TO_REFERENCE:
+            print(f"[WARN] Unknown model_id, skipping: {model_id}")
+            continue
+
+        reference_class = MODEL_TO_REFERENCE[model_id]
 
         for wav in sorted(model_dir.glob("*.wav")):
             input_name = wav.name.split("__")[0] + ".wav"
@@ -33,7 +53,7 @@ def main() -> None:
                 "model_id": model_id,
                 "input_file": str(input_file),
                 "output_file": str(wav),
-                "reference_class": "birds",
+                "reference_class": reference_class,
             })
 
     with open(OUT_CSV, "w", newline="") as f:
