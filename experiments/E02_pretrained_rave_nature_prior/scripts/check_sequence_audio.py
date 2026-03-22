@@ -2,7 +2,7 @@
 from pathlib import Path
 import soundfile as sf
 
-INPUT_DIR = Path("/home/shruti/rave-biophilic-sound-engine/data/test/input/sequence")
+INPUT_DIR = Path("/home/shruti/rave-biophilic-sound-engine/data/test/input/sound-characteristics")
 EXPECTED_SR = 48000
 EXPECTED_EXT = ".wav"
 EXPECTED_MIN_DURATION = 55   # seconds
