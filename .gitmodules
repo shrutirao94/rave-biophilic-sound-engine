@@ -1,0 +1,3 @@
+[submodule "experiments/E03_diffusion/AFTER"]
+	path = experiments/E03_diffusion/AFTER
+	url = https://github.com/acids-ircam/AFTER.git
